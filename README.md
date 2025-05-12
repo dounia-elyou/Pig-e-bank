@@ -37,4 +37,6 @@ This project enhanced my capability in the following areas:
 
 ---
 
+📎 **Click here to view the full case study**: [Pig E. Bank Churn Case Study (PDF)](https://github.com/dounia-elyou/Pig-e-bank/blob/main/Pig_E_Bank.pdf)
+
 This project demonstrates my ability to transform raw client data into meaningful insights and ethical recommendations that support data-driven decisions in the financial sector.
