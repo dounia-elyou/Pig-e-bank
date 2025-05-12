@@ -32,7 +32,6 @@ This project enhanced my capability in the following areas:
 ✅ Applying decision tree principles to understand behavioural drivers  
 ✅ Interpreting data ethically, with an awareness of bias and privacy  
 ✅ Understanding responsible use of client data in financial contexts  
-✅ Publishing professional analytical projects on GitHub  
 
 ---
 
