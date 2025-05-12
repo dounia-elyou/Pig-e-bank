@@ -1,4 +1,4 @@
-# 💼 Client Churn Analysis – Pig E. Bank  
+# Client Churn Analysis – Pig E. Bank  
 
 ## 📘 Project Introduction  
 Pig E. Bank, a global financial institution, set out to reduce customer churn by understanding the key drivers behind client departures. As part of the *Data Ethics & Applied Analytics* achievement, this project applies ethical data handling and analytical methods to uncover insights into client behaviour, supporting strategies to improve retention, growth, and customer satisfaction.
